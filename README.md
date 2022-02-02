@@ -31,5 +31,13 @@ This airport is located at Shamshabad, which is 8 km away from the city center o
 3. Once you have arrived at your desired location, take a cab or walk to get there.
 
 Hyderabad has a lot of places to eat. Here are some places that are within walking distance from the airport.
-The nearest subway station is at Baiyyappanahalli and the nearest bus stop is at Hosur Main Road.
+The nearest subway station is at Baiyyappanahalli and the nearest bus stop is at Hosur Main Road<br>
+
+Here i want to share some list of specific foods items<br>
+
+
+- Samosa
+- Biryani
+- Chai
+
 
