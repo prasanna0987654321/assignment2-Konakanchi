@@ -42,4 +42,42 @@ Here i want to share some list of specific foods items<br>
 
 [click here to know about me](https://github.com/prasanna0987654321/assignment2-Konakanchi/blob/main/AboutMe.md)
 
+# SPORTS
+I would like  to refer the following sports to others are Tennis, Cricket, Hockey, Table tennis.
+|  Name        |  Location  | Amount to pay  |
+| ----------   | ---------- | -------------- |
+|  Tennis      | Ohio       |   $55          |
+| Basket Ball  | Texas      |   $45          |
+|  Hockey      | Iowa       |   $25          |
+|   Shuttle    | Arkansas   |   $60          |
 
+---
+
+# Pithy Quote
+> If you fell down yesterday, stand up today.-*H. G. Wells*<br>
+> Set your goals high, and don't stop till you get there. -*Bo Jackson*
+
+---
+
+# String Processing
+
+> String hashing is the way to convert a string into an integer known as a hash of that string.
+An ideal hashing is the one in which there are minimum chances of collision (i.e 2 different strings having the same hash).
+
+Link to string hashing code <https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function/#:~:text=What%20is%20String%2DHashing%3F,strings%20having%20the%20same%20hash).>
+
+~~~
+long long compute_hash(string const& s) {
+    const int p = 31;
+    const int m = 1e9 + 9;
+    long long hash_value = 0;
+    long long p_pow = 1;
+    for (char c : s) {
+        hash_value = (hash_value + (c - 'a' + 1) * p_pow) % m;
+        p_pow = (p_pow * p) % m;
+    }
+    return hash_value;
+}
+~~~
+
+Link to source code <https://cp-algorithms.com/string/string-hashing.html>
