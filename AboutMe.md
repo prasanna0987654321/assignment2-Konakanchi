@@ -1,0 +1,3 @@
+I'm prasanna konakanchi from guntur. I have done my undergraduation in the stream of computer science and engineering from Hindu college of Engineering and technology. I'm a foodie I love to eat food. I like fish curry very much. I'm very much intrested in reading auto biographies of great persons. I want to become an software developer. 
+
+[Prasanna Pic](https://github.com/prasanna0987654321/assignment2-Konakanchi/blob/main/prasanna%20konakanchi_Pro.jpg)
